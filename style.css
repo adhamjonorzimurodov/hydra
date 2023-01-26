@@ -519,12 +519,13 @@ header ul li {
   margin: 20px 60px;
 }
 .start_sextion {
-  width: 1278px;
+  width: 100%px;
   height: 716px;
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 20px;
+
+  gap: 110px;
 }
 /* .namber_1ffffdfddfddddddfdfdfdfdfdfdfdffdfdfd */
 .namber_section {
@@ -544,7 +545,7 @@ header ul li {
   align-items: center;
   justify-content: center;
   padding: 30px 30px;
-  gap: 20px;
+  gap: 30px;
 }
 .join_section h1 {
   display: flex;
@@ -591,4 +592,93 @@ header ul li {
   border: 2px solid #ffffff;
   border-radius: 40px;
   background-color: inherit;
+}
+.join_section button {
+  width: 214px;
+  height: 48px;
+  background: linear-gradient(90deg, #8176af 0%, #c0b7e8 100%);
+  border-radius: 40px;
+  color: #343045;
+  font-size: 12px;
+}
+/* scdfdfdjfdfhdfjdfsdffsgfrlgfd */
+.services_section {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+  gap: 90px;
+}
+.services_section_img {
+  width: 130px;
+}
+
+.services_section_a img {
+  width: 3px;
+  height: 196px;
+}
+.services_section_h1 {
+  width: 180px;
+  height: 192px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 12px;
+  color: #ffffff;
+}
+.services_section_wrapper {
+  width: 150px;
+  height: 149px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 12px;
+  color: #ffffff;
+}
+.services_section_box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+}
+.services_section_box h1 {
+  width: 250px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 16px;
+  color: #ffffff;
+}
+.services_section_box_img {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.services_section_box button {
+  width: 170px;
+  height: 40px;
+  background: linear-gradient(90deg, #8176af 0%, #c0b7e8 100%);
+  border-radius: 40px;
+}
+/* fjhdfsdjfdsjfsdfksdkjfdsfhksd */
+.word_img {
+  padding-top: 60px;
+}
+.word_p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  font-size: 14px;
+  letter-spacing: 0.13em;
+  color: #ffffff;
+  margin: 30px 0;
 }
